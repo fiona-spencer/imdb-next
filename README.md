@@ -1,6 +1,12 @@
 <p><a target="_blank" href="https://app.eraser.io/workspace/72T3ulafCmuNX0BGSVRb" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
 
-[﻿github.com/fiona-spencer/imdb-next](https://github.com/fiona-spencer/imdb-next) 
+File Organization
+
+![Figure 4](/.eraser/72T3ulafCmuNX0BGSVRb___giAT4X1mKZVDmjgB54vFnmABS493___---figure---jYGJ84-Mv2ARv22Nt73Bk---figure---CQGllO6eo_CWnR4ly6REnw.png "Figure 4")
+
+
+
+
 
 This is a [﻿Next.js](https://nextjs.org/) project bootstrapped with [﻿create-next-app](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
