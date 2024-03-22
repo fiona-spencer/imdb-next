@@ -19,7 +19,7 @@ export default function Card({ result }) {
           alt={result.title}
         />
         <div className="p-2">
-          <p className='line-clamp-2 text-md'>result.overview</p>
+          <p className='line-clamp-2 text-md'></p>
           <h2 className='text-lg font-bold truncate'>
             {result.title || result.name}
           </h2>
