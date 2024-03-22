@@ -14,11 +14,11 @@ export default function Header() {
       </div>
       <div className='flex items-center gap-4'>
         <DarkModeSwitch/>
-      </div>
       <Link href={'/'} className='flex gap-1 items-center'>
         <span className='text-xl font-bold bg-blue-500 p-2 rounded-lg'>IMDb</span>
         <span className='text-xl font-bold hidden sm:inline'>Clone</span>
       </Link>
     </div>
+  </div>
   );
 }
